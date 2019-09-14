@@ -4,6 +4,8 @@
 This tool is used for getting the temporary AWS Credentials for Auth0-integrated AWS accounts, something like this document:
 https://auth0.com/docs/integrations/aws/sso
 
+For more information goes to this AWS blog: https://aws.amazon.com/blogs/security/how-to-implement-a-general-solution-for-federated-apicli-access-using-saml-2-0/
+
 ## Usage
 ```bash
 
