@@ -1,5 +1,9 @@
 # auth02aws
 
+## Context
+This tool is used for getting the temporary AWS Credentials for AWS account integrated with Auth0, something like this document:
+https://auth0.com/docs/integrations/aws/sso
+
 ## Usage
 ```bash
 
