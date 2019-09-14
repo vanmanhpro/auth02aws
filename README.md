@@ -26,7 +26,7 @@ Here's the diagram of the requests, response flow
 ## TO DO
 
 ### Make this a more convenient tool:
-- Add more feature such as disable SSL verification to the argument
+- Add more feature such as disable SSL verification to the arguments
 - Add a configure command and a configuration storage
 
 ### Refactor the code for security
